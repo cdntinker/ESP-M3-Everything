@@ -1,9 +1,8 @@
+# This seems to be a faily goot .gitignore for KiCAD 6 projects
+
 *.bak
 *.kicad_prl
 fp-info-cache
-# fp-lib-table
-# sym-lib-table
-# ./*-backups/
-# ./testing-ESP+Eth-backups/
-# ./testing-ESP+Eth-backups/*.zip
+
+Hardware/*-backups/
 
